@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 🔹 CEO of [Stock Manager](https://mentoriaprimeiravenda.online)      
-🔹 Passionate about Backend Development  
+🔹 Passionate about Frontend Development  
 🔹 Focused on React and Next js.  
 🔹 Love working with Ladding pages and postgreSQL.
 

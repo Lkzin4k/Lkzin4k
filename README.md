@@ -35,7 +35,7 @@
 ### 🎧 Now Playing  
 <div align="center">
   <a href="https://open.spotify.com/user/31f7mvi37y7cdqprkp6iacbz5di4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=insji39zug90t3uinqfdr8jpf&count=3&width=500" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31f7mvi37y7cdqprkp6iacbz5di4&count=3&width=500" alt="Spotify recently played" />
   </a>
 </div>
 

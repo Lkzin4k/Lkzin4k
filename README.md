@@ -1,43 +1,35 @@
 <h1 align="center">Hey there! 👋 I'm Danillo</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Profile%20Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
 🔹 CEO of [Stock Manager](https://mentoriaprimeiravenda.online)      
 🔹 Passionate about Backend Development  
 🔹 Focused on React and Next js.  
-🔹 Love working with Ladding pages and postgres
+🔹 Love working with Ladding pages and postgreSQL.
 
 ---
 
 ### 🛠 Tech Stack  
 #### Languages
-![React](https://img.shields.io/badge/React-b?style=for-the-badge&logo=react&color=black)
-![NextJs](https://img.shields.io/badge/NextJs-b?style=for-the-badge&logo=nextdotjs&color=black)
+![React](https://img.shields.io/badge/React-b?style=for-the-badge&logo=react&logoColor=white&color=black)
+![NextJs](https://img.shields.io/badge/NextJs-b?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black)
 #### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-q?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Tools & Frameworks  
 ![Git](https://img.shields.io/badge/Git-%F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![KTor](https://img.shields.io/badge/Ktor-%230095D5.svg?style=for-the-badge&logo=ktor&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-%6965DB.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Github](https://img.shields.io/badge/github-q?style=for-the-badge&logo=github&logoColor=white&color=gray)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-q?style=for-the-badge&logo=netlify&logoColor=white&color=black)
+
 
 #### IDEs & OS  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows10&logoColor=white)
-
+![Windows 10](https://img.shields.io/badge/Windows%2010-w?style=for-the-badge&color=blue)
 ---
 
 ### 🎧 Now Playing  
@@ -49,7 +41,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+### 📲 Connect with Me  
 <div align="center">
   <a href="https://discord.com/users/1165311925027082325" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />

@@ -6,12 +6,11 @@
 
 ---
 
-### 🚀 About Me  
-🔹 Software Engineering student at UNDB  
-🔹 CEO of [StreetHosting](https://streethosting.com.br) - take a look at my responsibilities [by clicking here](https://github.com/syncwrld/syncwrld/blob/main/streethosting.responsabilities.md)
+### 🚀 About Me
+🔹 CEO of [Stock Manager](https://mentoriaprimeiravenda.online)
 🔹 Passionate about Backend Development  
-🔹 Focused on Java, Kotlin, and System Architecture  
-🔹 Love working with SpringBoot, Bukkit, and JDA
+🔹 Focused on React and Next js.  
+🔹 Love working with Ladding pages and postgres
 
 ---
 
@@ -20,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
-
+![REACT] (https://img.shields.io/badge/react?style=for-the-badge&color=white)
 #### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,10 +53,10 @@
 
 ### 🌐 Connect with Me  
 <div align="center">
-  <a href="https://discord.com/users/662402220784091146" target="_blank">
+  <a href="https://discord.com/users/1165311925027082325" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:devsyncwrld@gmail.com?subject=Github%20Visit&body=Hello%2C%20I%20visited%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20talking%20with%20you!" target="_blank">
+  <a href="mailto:proficionaldanillo@gmail.com?subject=Github%20Visit&body=Hello%2C%20I%20visited%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20talking%20with%20you!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

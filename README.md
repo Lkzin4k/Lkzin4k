@@ -30,19 +30,11 @@
 #### IDEs & OS  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-w?style=for-the-badge&color=blue)
----
-
-### 🎧 Now Playing  
-<div align="center">
-  <a href="https://open.spotify.com/user/31f7mvi37y7cdqprkp6iacbz5di4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31f7mvi37y7cdqprkp6iacbz5di4&count=3&width=500" alt="Spotify recently played" />
-  </a>
-</div>
 
 ---
 
 ### 📲 Connect with Me  
-<div align="center">
+<div align="center"> 
   <a href="https://discord.com/users/1165311925027082325" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
